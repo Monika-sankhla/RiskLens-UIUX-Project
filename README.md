@@ -1,5 +1,5 @@
 # RiskLens Adaptive Dashboard Design System
-**Intern Name:** [Your Name]
+**Intern Name:**Monika Sankhla
 **Project Timeline:** 15 Days
 **Status:** Day 2 Completed
 
